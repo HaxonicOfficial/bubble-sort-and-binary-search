@@ -24,7 +24,7 @@ main()
 		}
 		else if(arr[middle] == search)
 		{
-			cout<<search<<" found at location "<<middle+1<<"\n";
+			cout<<search<<" Found at location "<<middle+1<<"\n";
 			break;
 		}
 		else
@@ -38,3 +38,4 @@ main()
 		cout<<"Not found! "<<search<<" is not present in the list.";
 	}
 }
+//terminated
